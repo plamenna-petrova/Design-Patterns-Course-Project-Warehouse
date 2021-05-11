@@ -6,8 +6,4 @@
     <RootNamespace>Design_Patterns_Course_Project_Warehouse</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="State\" />
-  </ItemGroup>
-
 </Project>
