@@ -1,4 +1,4 @@
-## Design Patterns Course Project Warehouse
+# Design Patterns Course Project Warehouse
 Warehouse Console App, featuring the three gof design patterns types - creational, structural and behavioral 
 
 ## Idea and implementation
